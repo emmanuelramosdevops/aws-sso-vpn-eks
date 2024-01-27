@@ -1,0 +1,14 @@
+keys
+.idea
+eks-auth-alternative
+eks-tokens
+terraform/tf-sso
+
+k8s/configMap-awsauth.yaml
+k8s/eks-get-token.sh
+k8s/eksctl-auth.sh
+README-admin.md
+account-ids.txt
+eks-sgs.md
+
+.tfvars
