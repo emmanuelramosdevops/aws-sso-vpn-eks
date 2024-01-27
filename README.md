@@ -185,9 +185,9 @@ aws eks update-kubeconfig --region us-east-1 --name eks-demo
 
 **Note:** Make sure of using Development Admin credentials.
 
-To create the developer cluster role, apply the **k8s/clusterRole-developer.yaml** file.
+In order to create the developer cluster role, apply the **k8s/clusterRole-developer.yaml** file.
 
-To add a developer user, run the script **k8s/eksctl-add-dev-user.sh** (replace values)
+In order to add a developer user, run the script **k8s/eksctl-add-dev-user.sh** (replace values)
 
 
 
